@@ -1,2 +1,2 @@
-# thesingletonobserver
-My Hashnode Blog
+# The Singleton Observer
+Link: https://rayeschroeder.hashnode.dev
